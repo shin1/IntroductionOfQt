@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ABC.png</file>
+        <file>image/face.png</file>
+        <file>image/google_earth.png</file>
+        <file>image/moving_office.jpg</file>
+        <file>image/Qt_20years_infographic_big.jpg</file>
+        <file>image/qt_logo_green_128x128px.png</file>
+    </qresource>
+</RCC>
